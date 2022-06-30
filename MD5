@@ -1,0 +1,15 @@
+f6ff56dd638a601cc003ba30666e984e *DESCRIPTION
+f1cc745d14a092100902e4f995c858bc *NAMESPACE
+5082617f3d23b11a02d3b116abccc5dd *R/PerturbationClustering.R
+f6646cb6e40f2e908ab8dafacee9cc68 *R/Util.R
+06bc57aba1ed933bdf8a3df7a2b5e01e *R/scISR.R
+5db95b69b469c725d270a17c4a4a4d60 *README.md
+d5d8241f974a3fd507a5d7c314e5566b *build/vignette.rds
+4950347b0a499a1e19946def47d0c199 *data/Goolam.rda
+0a1dcff530c0129c3e39c2e9adef5f22 *inst/CITATION
+7897506f1f09f5e7eedf2083bc5cd0e3 *inst/doc/Example.R
+fecbd3c63397d0ad9a7ba435c370579f *inst/doc/Example.Rmd
+1df16cb87e014b43eec931913c6780d2 *inst/doc/Example.html
+9400684aef5fc4ef0d3f7606ea6e4ea1 *man/Goolam.Rd
+a47cc4f6047a83e8e16175134bc002c8 *man/scISR.Rd
+fecbd3c63397d0ad9a7ba435c370579f *vignettes/Example.Rmd
